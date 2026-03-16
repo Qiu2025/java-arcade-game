@@ -1,4 +1,4 @@
-# Programacion-2
+# programacion-II
 
 Simple 2D Java game built using an educational drawing library `StdDraw` and data structures `tads`.
 
