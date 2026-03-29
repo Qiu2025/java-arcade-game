@@ -1,4 +1,4 @@
-# Java Arcade Game
+# TopDown Arena Shooter
 
 Simple 2D Java game built using an educational drawing library `StdDraw` and data structures `tads`.
 
