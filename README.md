@@ -2,6 +2,12 @@
 
 Simple 2D Java game built using an educational drawing library `StdDraw` and data structures `tads`.
 
+## Preview
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/0dcebf92-e5a6-46f4-8f91-c05e06fb100c" width="30%" controls muted loop></video>
+</div>
+
 ## Structure
 
 - `Assets/` - images used by the game
