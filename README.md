@@ -5,7 +5,7 @@ Simple 2D Java game built using an educational drawing library `StdDraw` and dat
 ## Preview
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/0dcebf92-e5a6-46f4-8f91-c05e06fb100c" width="30%" controls muted loop></video>
+  <video src="https://github.com/user-attachments/assets/b25b0154-40a2-4bdf-a6dd-c0725648e2f9"></video>
 </div>
 
 ## Structure
